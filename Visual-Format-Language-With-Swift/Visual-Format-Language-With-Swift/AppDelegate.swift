@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Visual-Format-Language-With-Swift
 //
-//  Created by Thuan Tran on 3/27/17.
-//  Copyright © 2017 Thuan Tran. All rights reserved.
+//  Created by Thuan on 3/29/17.
+//  Copyright © 2017 Thuan. All rights reserved.
 //
 
 import UIKit
