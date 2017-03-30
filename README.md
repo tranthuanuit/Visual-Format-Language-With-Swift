@@ -1,6 +1,6 @@
 # Visual-Format-Language-With-Swift
  Visual Format String Grammar
-<Orientation>? 2. <SuperView><Connection>? 3. [View](<connection><view>)* 4.<connection><superview>?
+( < orientation >: )?(< superview >< connection >)?< view >(< connection >< view >)*(< connection >< superview >)?
 Notes:
 - Direction of your constraints, not required. Can have the following values:
     - H: indicates horizontal orientation.
